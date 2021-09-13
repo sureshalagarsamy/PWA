@@ -1,8 +1,6 @@
 ## What is a PWA?
 ### _PWA stands for 'Progressive Web Application'_
 
-[Reference](https://gofore.com/en/progressive-web-app-pwa-i-care/)
-
 The term was introduced by Google Chrome engineer Alex Russell.
 
 “So… Is it a technology? Is it a standard? Is it something owned/patented by Google?” No, none of those. It is simply a term to describe a specific way to design and build applications.
